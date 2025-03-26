@@ -1,2 +1,2 @@
 # portfolio-simple-website
-A simple portfolio page built with basic HTML and CSS.
+A simple portfolio page which is built with basic HTML and CSS.
